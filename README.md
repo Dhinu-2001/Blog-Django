@@ -14,7 +14,7 @@ A lightweight blog application built with **Django**, featuring user authenticat
 ---
 
 ## 🛠️ Setup and Installation
-
+```
 ### **1️⃣ Clone the Repository**
 First, download the project to your local machine:
 
