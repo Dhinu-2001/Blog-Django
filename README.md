@@ -17,7 +17,7 @@ A lightweight blog application built with **Django**, featuring user authenticat
 
 ### **1️⃣ Clone the Repository**
 First, download the project to your local machine:
-```bash
+
 git clone https://github.com/Dhinu-2001/Blog-Django.git
 cd Blog-Django
 
